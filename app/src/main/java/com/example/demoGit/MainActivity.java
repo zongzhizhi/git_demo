@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
                     //呵呵44 你哈啊
                     //张三没更新就修改提交了
                     //张三提交被拒绝 然后重新修改提交
-                    //张三提交了最新代码
+                    //张三提交了最新代码哈哈
                     mTextMessage.setText(R.string.title_dashboard);
                     return true;
                 case R.id.navigation_notifications:
